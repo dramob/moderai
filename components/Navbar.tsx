@@ -42,7 +42,7 @@ const Navbar = () => {
   <Link href='/' className='flex z-40 items-center font-extrabold'>
 
 
-      <h1 className='text-xl mx-10'>flagged.ai</h1> 
+      <h1 className='text-xl mx-10'>Peacenet.ai</h1> 
     </Link>
 
     <div className='hidden items-center space-x-4 sm:flex'>
